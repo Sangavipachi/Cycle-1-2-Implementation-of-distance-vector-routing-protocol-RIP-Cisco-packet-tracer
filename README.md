@@ -1,8 +1,8 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
 📅 DATE: 05/09/26
-## NAME : NITHIYASREE K
-## REG : 21223060188
+## NAME : SANGAVI P
+## REG : 212222060242
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
@@ -12,7 +12,7 @@
 ## 🎯 AIM  
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 
----
+---0
 
 ## 🛠️ EQUIPMENTS REQUIRED
 
